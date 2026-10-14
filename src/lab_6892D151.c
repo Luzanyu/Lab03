@@ -2,7 +2,7 @@
 
 long calculate_factorial(int number )
 {
-    // TODO: write your code here
+
 }
 
 // DO NOT change the code below
